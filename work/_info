@@ -1,0 +1,191 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/digital design/Assignments/assign5/q5
+T_opt
+!s110 1724284291
+V[m]gYHBN?MR:]JCj2@WD91
+04 2 4 work tb fast 0
+=1-84a938c703d0-66c67d83-112-2a28
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vram
+!s110 1723857541
+!i10b 1
+!s100 _@1PFiIANZM<W38n?daf33
+IF;T87k51n9m9TjWnFW_2^1
+Z3 dD:/digital design/projects/project_2
+w1723683121
+8D:/digital design/projects/project_2/ram.v
+FD:/digital design/projects/project_2/ram.v
+!i122 8
+L0 1 51
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1723857541.000000
+!s107 D:/digital design/projects/project_2/ram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital design/projects/project_2/ram.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vRAM
+Z6 !s110 1724286948
+!i10b 1
+!s100 P[nB@W546eYo86T5=:[cj0
+IDUd[mVF[WbZPR@XfmCSYP0
+R3
+w1724277315
+8ram.v
+Fram.v
+!i122 102
+L0 1 53
+R4
+R5
+r1
+!s85 0
+31
+Z7 !s108 1724286948.000000
+!s107 spi_tb.v|wrapper.v|spi_slave.v|ram.v|
+Z8 !s90 -reportprogress|300|ram.v|spi_slave.v|wrapper.v|spi_tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@r@a@m
+vSPI_Slave
+R6
+!i10b 1
+!s100 kMPUTWeKYh[Yfg97CHD=K0
+Ig1V::a3IoiQ9dn>A3i]JZ1
+R3
+w1724284862
+8spi_slave.v
+Fspi_slave.v
+!i122 102
+L0 1 150
+R4
+R5
+r1
+!s85 0
+31
+R7
+Z10 !s107 spi_tb.v|wrapper.v|spi_slave.v|ram.v|
+R8
+!i113 0
+R9
+R2
+n@s@p@i_@slave
+vSPI_wrapper
+R6
+!i10b 1
+!s100 P>::<N5oAhn85V@ZYf0_D2
+I31DK]PAcbJVGVhh4LZgDE1
+R3
+w1724027299
+8wrapper.v
+Fwrapper.v
+!i122 102
+L0 1 37
+R4
+R5
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R2
+n@s@p@i_wrapper
+vtb
+R6
+!i10b 1
+!s100 @mkZUcSLNGYm0J=J=PdS`0
+IHc_oSU=Z??9kZ9m:K3EU>2
+R3
+w1724283873
+8spi_tb.v
+Fspi_tb.v
+!i122 102
+L0 1 176
+R4
+R5
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 0
+R9
+R2
